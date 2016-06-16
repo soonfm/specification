@@ -26,6 +26,10 @@ The main characteristics of SOON_ FM 2.0 are:
 * Track reactions? (Slack Style)
 * Google Authentication (thisissoon.com/thishe.re)
 * New imroved statistics system
+* Pause Tracks
+* Skip Tracks
+* Mute
+* Adjust Volume +/-
 
 ## Ideas (please add your own)
 
