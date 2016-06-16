@@ -31,7 +31,7 @@ The main characteristics of SOON_ FM 2.0 are:
 * Mute
 * Adjust Volume +/-
 
-## Ideas (please add your own)
+### Ideas (please add your own)
 
 * Playlist crafter - Build a playlist and add that in one go
 * Support for other streaming services (e.g SoundCloud - API's dependant)
